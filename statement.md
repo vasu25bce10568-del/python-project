@@ -26,8 +26,8 @@ The project focuses on the development and deployment of a single-player strateg
 * **Open Source Contributors:** Developers looking to optimize or expand upon a clean Python codebase.
 
 ## 4. High-Level Features
-* ** Smart AI Opponent:** An adaptive computer player capable of blocking moves and calculating winning paths.
-* ** Dynamic Grid System:** A 3x3 board that updates instantaneously to reflect the current game state.
-* ** Input Validation:** Robust error handling to ensure players cannot select occupied cells or invalid coordinates.
-* ** Win/Draw Detection:** Automatic recognition of horizontal, vertical, and diagonal victories, as well as stalemate scenarios.
-* ** Replayability:** Options to reset the game board instantly for continuous play sessions.
+* Smart AI Opponent: An adaptive computer player capable of blocking moves and calculating winning paths.
+* Dynamic Grid System: A 3x3 board that updates instantaneously to reflect the current game state.
+*  Input Validation: Robust error handling to ensure players cannot select occupied cells or invalid coordinates.
+*  Win/Draw Detection: Automatic recognition of horizontal, vertical, and diagonal victories, as well as stalemate scenarios.
+*  Replayability: Options to reset the game board instantly for continuous play sessions.
