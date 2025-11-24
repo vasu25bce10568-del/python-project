@@ -32,7 +32,7 @@ The positions of this 3 x 3 board is same as the **keypad on the right side of y
 
 
 #### You just have to input the position(1-9).img
-![1](< "https://github.com/user-attachments/assets/364662dc-2be5-4749-986f-6ba93adefced" />)
+![1]()
 
   
   
