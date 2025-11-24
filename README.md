@@ -17,10 +17,11 @@ Adding a simple AI to the Tic-Tac-Toe Game:
 
 ## How to install
 - 1 Clone or Download the Repository
-If you have Git installed:
-2 navigate to the Directory
-Open your terminal/command prompt and change directory (cd) to where you saved the files:
-
+-If you have Git installed:
+- 2 navigate to the Directory
+- Open your terminal/command prompt and change directory (cd) to where you saved the files:
+  
+  ## LOGIC
 
 ![tic_tac_toe](https://user-images.githubusercontent.com/61280281/91558896-ba479700-e954-11ea-8415-3759e555ad23.png)
 
