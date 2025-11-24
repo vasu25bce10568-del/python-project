@@ -31,8 +31,8 @@ The board will look like this!
 The positions of this 3 x 3 board is same as the **keypad on the right side of your key board**.
 
 
-#### You just have to input the position(1-9).
-![1](<img width="720" height="368" alt="Screenshot 2025-11-24 203802" src="https://github.com/user-attachments/assets/364662dc-2be5-4749-986f-6ba93adefced" />)
+#### You just have to input the position(1-9).img
+![1](< "https://github.com/user-attachments/assets/364662dc-2be5-4749-986f-6ba93adefced" />)
 
   
   
