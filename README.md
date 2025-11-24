@@ -32,7 +32,7 @@ The positions of this 3 x 3 board is same as the **keypad on the right side of y
 
 
 #### You just have to input the position(1-9).
-![1](https://user-images.githubusercontent.com/61280281/81096720-799abc80-8f24-11ea-97cc-de65614cbd92.png)
+![1](C:\Users\vasum\OneDrive\Pictures\Screenshots\demo how to play.png)
   
   
 # *Author*:
