@@ -32,7 +32,7 @@ The positions of this 3 x 3 board is same as the **keypad on the right side of y
 
 
 #### You just have to input the position(1-9).img
-![1](file:///C:/Users/vasum/OneDrive/Pictures/Screenshots/demo%20how%20to%20play.png)
+![1](https://github.com/vasu25bce10568-del/python-project/blob/main/demo%20how%20to%20play.png?raw=true)
 
   
   
