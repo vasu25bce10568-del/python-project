@@ -39,7 +39,7 @@ The positions of this 3 x 3 board is same as the **keypad on the right side of y
 
 
 #### You just have to input the position(1-9).img
-![1](<img width="720" height="368" alt="Image" src="https://github.com/user-attachments/assets/75ab7ead-ba45-41c6-8559-fc9eaa4f908b" />
+<img width="720" height="368" alt="Image" src="https://github.com/user-attachments/assets/75ab7ead-ba45-41c6-8559-fc9eaa4f908b" />
 
   
   
