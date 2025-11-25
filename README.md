@@ -84,7 +84,7 @@ Three Distinct Game Modes:
   - [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI)
 
 
-## DEMO:
+## DEMO  /  Overview :
 #### The board will be printed out every time a player makes a move.
 The board will look like this!
 The positions of this 3 x 3 board is same as the **keypad on the right side of your key board**.
