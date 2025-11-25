@@ -18,7 +18,7 @@ Three Distinct Game Modes:
 
 - Computer vs. Computer: Watch two AI agents battle it out.
 
-- Smart AI Logic: The computer opponent uses a heuristic algorithm to:
+## Smart AI Logic: The computer opponent uses a heuristic algorithm to:
 
 - Detect winning moves and take them immediately.
 
