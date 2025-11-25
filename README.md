@@ -58,12 +58,13 @@ Three Distinct Game Modes:
 ## instructions for Testing
 - To test the functionality of the game, follow these steps:
 
-1-  Test Input Handling
-2- Run the game and select Mode 1 (Player vs Player).
+1. Test Input Handling
 
-3- When asked for a position, try entering a letter (e.g., 'a') or a number outside 1-9 (e.g., '12').
+2. Run the game and select Mode 1 (Player vs Player).
 
-4- Expected Result: The game should catch the error and display INVALID INPUT! Please Try Again!.
+3. When asked for a position, try entering a letter (e.g., 'a') or a number outside 1-9 (e.g., '12').
+
+4. Expected Result: The game should catch the error and display INVALID INPUT! Please Try Again!.
   
   ## Maps
 
