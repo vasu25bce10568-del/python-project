@@ -8,7 +8,23 @@ Adding a simple AI to the Tic-Tac-Toe Game:
 - Player vs. Player (2 - player mode)
 - Player vs. AI (1 - player mode)
 - AI vs. AI (*for fun*)
+- 
+## Features
+Three Distinct Game Modes:
 
+- Player vs. Computer: Challenge an AI that blocks your moves and tries to win.
+
+- Player vs. Player: Classic local multiplayer mode.
+
+- Computer vs. Computer: Watch two AI agents battle it out.
+
+- Smart AI Logic: The computer opponent uses a heuristic algorithm to:
+
+- Detect winning moves and take them immediately.
+
+- Detect opponent's winning moves to block them.
+
+- Prioritize strategic positions (Corners > Center > Edges)
 
 
 ## *References*
