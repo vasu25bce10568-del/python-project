@@ -65,6 +65,12 @@ Three Distinct Game Modes:
 3. When asked for a position, try entering a letter (e.g., 'a') or a number outside 1-9 (e.g., '12').
 
 4. Expected Result: The game should catch the error and display INVALID INPUT! Please Try Again!.
+
+7 | 8 | 9 
+-----------
+ 4 | 5 | 6 
+-----------
+ 1 | 2 | 3
   
   ## Maps
 
