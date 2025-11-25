@@ -8,7 +8,7 @@ Adding a simple AI to the Tic-Tac-Toe Game:
 - Player vs. Player (2 - player mode)
 - Player vs. AI (1 - player mode)
 - AI vs. AI (*for fun*)
-- 
+  
 ## Features
 Three Distinct Game Modes:
 
@@ -31,11 +31,29 @@ Three Distinct Game Modes:
 #### *Logic*
 - Optimal Tic Tac Toe Moves
 
+  ## Technologies/Tools Used
+- Programming Language: Python 3.x
+
+- Standard Libraries:
+
+- random (For randomizing starting turns and AI logic)
+
+- time (For adding dramatic delays in AI vs AI mode)
+
+- Interface: Console/Terminal
+
 ## How to install
 -  Clone or Download the Repository
 -If you have Git installed:
 -  navigate to the Directory
 - Open your terminal/command prompt and change directory (cd) to where you saved the files:
+
+## Running the Game
+- Open your command prompt (Windows) or terminal (Mac/Linux).
+
+- Navigate to the directory where you saved the file.
+
+- Run the following command: python tictactoe.py
   
   ## Maps
 
